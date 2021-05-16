@@ -1,2 +1,2 @@
-# quantum_IBM
-Quantum algorithms implemented on IBM qasm_simulators and ibmq
+# Quantum Algorithms
+This repo contains codes for various quantum algorithms and some of my own experiments that were run on IBM quantum computers through IBM Quantum lab.
